@@ -3,11 +3,7 @@
 
 Linnuspy é um programa simples escrito em python que realiza de forma automatizada a configuração eletrônica de um átomo com base em seu número atômico.
 
-##
-
-#### O Diagrama de Pauling
-
-O diagrama de Linnus Pauling é usado para determinar a configuração eletrônica de um átomo, molécula ou íon. O princípio postula um processo hipotético em que um átomo é "construído" pela adição progressiva de elétrons. Os elétrons preenchem os orbitais atômicos disponíveis dos níveis de energia mais baixos antes de ocuparem níveis mais altos. Como eles são adicionados, eles assumem as condições mais estáveis (orbital atômico) com relação ao núcleo e aos elétrons que já estão lá. Por exemplo, a camada 1s é preenchida antes que a subcamada 2s esteja ocupada. Desta forma, os elétrons de um átomo ou íon formam a configuração eletrônica mais estável possível. Um exemplo é a configuração 1s2 2s2 2p6 3s2 3p3 para o átomo de fósforo, o que significa que a subcamada 1s tem 2 elétrons e assim por diante[[1]](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_de_Aufbau).
+Sobre o [Diagrama de Linnus Pauling](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_de_Aufbau).
 
 ##
 
