@@ -14,7 +14,7 @@ Inicialmente foi definido as variáveis que serão utilizadas ao decorrer do có
 diagrama = ('1s', '2s', '2p', '3s', '3p', '4s', '3d', '4p', '5s', '4d', '5p', '6s', '4f', '5d', '6p', '7s', '5f', '6d')
 eletrons = (2, 2, 6, 2, 6, 2, 10, 6, 2, 10, 6, 2, 14, 10, 6, 2, 14, 10)
 ```
-A primeira variável aí, que foi chamada de diagrama, é uma lista contendo strings que significam, ao todo, a ordem de possibilidade da configuração e dos subníveis; a segunda, chamada eletrons, recebe o número máximo de elétrons por subnível.
+A primeira variável aí, que foi chamada de diagrama, é uma lista contendo strings que significam, ao todo, a ordem de possibilidade dos subníveis na configuração seguindo o diagrama; a segunda, chamada eletrons, recebe o número máximo de elétrons por subnível.
 
 Considerando que o valor do número atômico já foi dado pelo usuário, o programa executará uma função que faz uma limitação da possivel configuração eletrônica daquele elemento
 ```python
